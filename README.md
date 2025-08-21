@@ -19,7 +19,7 @@ The Caesar Cipher is one of the simplest and most widely known encryption techni
 
    ![Decryption Example](DecryptionSS.png)
 
-3. **Exiting**
-   The program will repeatedly ask the user to select an option until the user selects 3, which exits the program.
+3. **Exiting**  
+   The program will keep looping until the user selects the exit option.  
 
-   ![Exiting Example](ExitingSS.png)
+   ![Exit Example](ExitingSS.png)
