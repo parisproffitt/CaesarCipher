@@ -1,4 +1,4 @@
-# Caesar Shift Cipher (Encryption & Decryption)
+# Caesar Shift Cipher (Practicing Encryption & Decryption)
 This project implements a **Caesar Shift Cipher** in Java.  
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. It works by shifting each letter of the plaintext by a fixed number of positions down the alphabet.
 
